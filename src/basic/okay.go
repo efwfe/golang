@@ -2,7 +2,7 @@ package basic
 
 import "fmt"
 
-func okay(){
+func Okay(){
 	fmt.Println("this is okay")
 }
 
